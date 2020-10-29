@@ -54,12 +54,12 @@ html{
     vertical-align: middle;
 }
 .background{
-    background: rgba(197, 217, 255, 0.192) url('../img/nbg.jpg');
+    background: rgba(197, 217, 255, 0.192) url('./nbg.jpg');
     background-size: cover;
     background-blend-mode: darken;
 }
 .backgroundbg{
-    background: rgba(67, 133, 219, 0.103) url('../img/bbg.jpg');
+    background: rgba(67, 133, 219, 0.103) url('./bbg.jpg');
     background-size: cover;
     background-blend-mode: darken;
 }
